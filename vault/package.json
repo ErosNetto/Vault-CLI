@@ -1,0 +1,19 @@
+{
+  "name": "vault",
+  "version": "1.0.0",
+  "description": "Vault-CLI é um gerenciador de contas bancárias via linha de comando, desenvolvido em Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Cofre"
+  ],
+  "author": "Eros Netto Antunes",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^12.3.3"
+  }
+}
